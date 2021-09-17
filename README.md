@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi My names Duane and Welcome to my github! 
 
 
 
