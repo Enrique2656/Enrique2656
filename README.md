@@ -1,25 +1,30 @@
-![github banner](https://user-images.githubusercontent.com/88947459/133893103-c0eef25f-a3fb-43b4-b51c-766cb1d356b6.png)
+<a target="_blank" href="">
+  <img src="https://user-images.githubusercontent.com/88947459/133911235-0a603397-50f2-459d-9453-5c282590c5b0.png" width="100%">
+</a>
 
 
+<p align="center">
+<!--   <a target="_blank" href="">
+    <img src="https://user-images.githubusercontent.com/88947459/133910638-6f370ba2-c20b-47db-8c64-5b8101d80b17.png" width="30px;" alt="instagram" />
+  </a> -->
+  <a target="_blank" href="https://www.duanerymarowicz.com/">
+    <img src="https://user-images.githubusercontent.com/88947459/133910688-5f57ab2c-d249-400b-8162-49b37a49a7bd.png" width="30px;" alt="portfolio" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/duane-enrique-rymarowicz/">
+    <img src="https://user-images.githubusercontent.com/88947459/133910727-336345a6-e765-4201-98a7-e0a5cbddfb78.png" width="30px;" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://twitter.com/DuaneEnrique">
+    <img src="https://user-images.githubusercontent.com/88947459/133910740-fc97aace-1888-4216-bbcc-ba0738a8c3d7.png" width="30px;" alt="Twitter" />
+  </a>
+</p>
 Hi My names Duane and Welcome to my github! 
 Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. I hope 
-
-
-
-
-
-
-
 
 - 🔭 I’m currently working on ... a small portfolio project for a new real estate agent. 
 - 🌱 I’m currently learning ... Javascript, js.node, REACT
 - 👯 I’m looking to collaborate with ... like minded engineers who dont mind eating cheesesteaks everyday for lunch. 
 - 🤔 I’m looking for help with ... getting my foot in the door in the industry and making new connections. 
 - 💬 Ask me about ... How i feel about putting pineapple on pizza.
-- 📫 How to reach me: ... 
-- https://www.linkedin.com/feed/
-- https://twitter.com/DuaneEnrique
-- https://www.duanerymarowicz.com/
 - ⚡ Fun fact: ... 
 Statistically Most people fall asleep in seven minutes. The rest are programmers. 
 
