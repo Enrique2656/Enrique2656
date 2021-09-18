@@ -1,9 +1,8 @@
+![github banner](https://user-images.githubusercontent.com/88947459/133893103-c0eef25f-a3fb-43b4-b51c-766cb1d356b6.png)
+
+
 Hi My names Duane and Welcome to my github! 
 Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. I hope 
-
-
-
-![Matrix Code Live Wallpaper Free](https://user-images.githubusercontent.com/88947459/133857581-66e0127d-45a0-48b9-99a8-fdd03c6d6945.gif)
 
 
 
