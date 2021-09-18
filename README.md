@@ -1,5 +1,5 @@
 Hi My names Duane and Welcome to my github! 
-
+Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. I hope 
 
 
 
