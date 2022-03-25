@@ -20,11 +20,11 @@
 Hi My names Duane and Welcome to my github! 
 Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. I hope 
 
-- 🔭 I’m currently working on ... a small portfolio project for a new real estate agent. 
+- 🔭 I’m currently working on ... A e-commerce and business website for an Attorney. 
 - 🌱 I’m currently learning ... Javascript, js.node, REACT
 - 👯 I’m looking to collaborate with ... like minded engineers who dont mind eating cheesesteaks everyday for lunch. 
 - 🤔 I’m looking for help with ... getting my foot in the door in the industry and making new connections. 
-- 💬 Ask me about ... How i feel about putting pineapple on pizza.
+- 💬 Ask me about ... How I feel about putting pineapple on pizza.
 - ⚡ Fun fact: ... 
 Statistically Most people fall asleep in seven minutes. The rest are programmers. 
 
