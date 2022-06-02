@@ -1,10 +1,14 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+<div align="center">
+  <h1>
+  Hi There!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"/>
 </h1>
-<a target="_blank" href="">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<!-- <a target="_blank" href="">
   <img src="https://user-images.githubusercontent.com/88947459/171674339-215ff43e-51c0-4d6e-bcca-eb0180995ffe.png" width="100%">
-</a>
+</a> -->
 
 ### :coffee: Connect with me:
 <p align="center">
@@ -12,13 +16,13 @@
     <img src="https://user-images.githubusercontent.com/88947459/133910638-6f370ba2-c20b-47db-8c64-5b8101d80b17.png" width="30px;" alt="instagram" />
   </a> -->
   <a target="_blank" href="https://www.duanerymarowicz.com/">
-    <img src="https://user-images.githubusercontent.com/88947459/133910688-5f57ab2c-d249-400b-8162-49b37a49a7bd.png" width="30px;" alt="portfolio" />
+    <img src="https://user-images.githubusercontent.com/88947459/133910688-5f57ab2c-d249-400b-8162-49b37a49a7bd.png" width="5%;" alt="portfolio" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/duane-enrique-rymarowicz/">
-    <img src="https://user-images.githubusercontent.com/88947459/133910727-336345a6-e765-4201-98a7-e0a5cbddfb78.png" width="30px;" alt="LinkedIn" />
+    <img src="https://user-images.githubusercontent.com/88947459/133910727-336345a6-e765-4201-98a7-e0a5cbddfb78.png" width="5%;" alt="LinkedIn" />
   </a>
   <a target="_blank" href="https://twitter.com/DuaneEnrique">
-    <img src="https://user-images.githubusercontent.com/88947459/133910740-fc97aace-1888-4216-bbcc-ba0738a8c3d7.png" width="30px;" alt="Twitter" />
+    <img src="https://user-images.githubusercontent.com/88947459/133910740-fc97aace-1888-4216-bbcc-ba0738a8c3d7.png" width="5%;" alt="Twitter" />
   </a>
 </p>
 
