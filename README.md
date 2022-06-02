@@ -1,5 +1,5 @@
 <a target="_blank" href="">
-  <img src="Enrique2656\img\Me and Mila.png" width="100%">
+  <img src="\img\Me and Mila.png" width="100%">
 </a>
 
 
