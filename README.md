@@ -32,7 +32,8 @@
 ---
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Enrique2656
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enrique2656)](https://git.io/streak-stats)
+
 
 
 
