@@ -3,6 +3,20 @@
 </a>
 
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg
+</div>
+---
+### :fire: My Stats :
+
+
+
+
+
+
 <p align="center">
 <!--   <a target="_blank" href="">
     <img src="https://user-images.githubusercontent.com/88947459/133910638-6f370ba2-c20b-47db-8c64-5b8101d80b17.png" width="30px;" alt="instagram" />
