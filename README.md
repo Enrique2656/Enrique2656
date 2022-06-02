@@ -65,7 +65,7 @@ Hi My names Duane and Welcome to my github!
 Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. 
 
 - 🔭 I’m currently working on ... A e-commerce and business website for an Attorney. 
-- 🌱 I’m currently learning ... Javascript, js.node, REACT
+- 🌱 I’m currently learning ... C#, .NetMVC, MySQL
 - 👯 I’m looking to collaborate with ... like minded engineers who dont mind eating cheesesteaks everyday for lunch. 
 - 🤔 I’m looking for help with ... getting my foot in the door in the industry and making new connections. 
 - 💬 Ask me about ... How I feel about putting pineapple on pizza.
