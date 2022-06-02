@@ -51,11 +51,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique2656&layout=compact&theme=radical&langs_count=8" width="40%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique2656&layout=compact&theme=radical&langs_count=8" width="45%" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Enrique2656&show_icons=true&theme=radical" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Enrique2656&show_icons=true&theme=radical" width="45%" />
 </a>
 
 
