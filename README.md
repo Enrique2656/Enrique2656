@@ -1,5 +1,5 @@
 <a target="_blank" href="">
-  <img src="(https://user-images.githubusercontent.com/88947459/171674003-eddbe124-90cb-4761-9bed-0eaac99ba4b6.jpg)" width="100%">
+  <img src="(https://user-images.githubusercontent.com/88947459/171674003-eddbe124-90cb-4761-9bed-0eaac99ba4b6.jpg)" width="50%">
 </a>
 
 
