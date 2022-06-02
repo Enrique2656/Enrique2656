@@ -18,7 +18,7 @@
   </a>
 </p>
 Hi My names Duane and Welcome to my github! 
-Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. I hope 
+Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. 
 
 - 🔭 I’m currently working on ... A e-commerce and business website for an Attorney. 
 - 🌱 I’m currently learning ... Javascript, js.node, REACT
