@@ -10,7 +10,6 @@
   <img src="https://user-images.githubusercontent.com/88947459/171674339-215ff43e-51c0-4d6e-bcca-eb0180995ffe.png" width="100%">
 </a> -->
 
-### :coffee: Connect with me:
 <p align="center">
 <!--   <a target="_blank" href="">
     <img src="https://user-images.githubusercontent.com/88947459/133910638-6f370ba2-c20b-47db-8c64-5b8101d80b17.png" width="30px;" alt="instagram" />
