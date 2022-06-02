@@ -1,11 +1,11 @@
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 <a target="_blank" href="">
   <img src="https://user-images.githubusercontent.com/88947459/171674339-215ff43e-51c0-4d6e-bcca-eb0180995ffe.png" width="100%">
 </a>
----
+
 ### :coffee: Connect with me:
 <p align="center">
 <!--   <a target="_blank" href="">
