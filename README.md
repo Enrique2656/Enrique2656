@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
 ---
 ### :fire: My Stats :
