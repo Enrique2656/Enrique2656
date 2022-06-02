@@ -16,7 +16,6 @@
     <img src="https://user-images.githubusercontent.com/88947459/133910740-fc97aace-1888-4216-bbcc-ba0738a8c3d7.png" width="30px;" alt="Twitter" />
   </a>
 </p>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -52,7 +51,7 @@
 </a>
 
 
-
+---
 Hi My names Duane and Welcome to my github! 
 Early in life I always had a passion for taking things apart and understanding how they work, always looking at something beyond the final product, the hard work, and process for how something came to be. 
 
